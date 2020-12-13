@@ -12,7 +12,8 @@
 
 -  At the entry there will be a face scanner along with the thermal cameras, if the person wearing mask is given a green signal then the thermal camera will check the temperature, and in the workplace people who don’t follow social distancing will enclosed in red box as per the code and that would be deployed in the security cameras, the same can be used in streets as well.
 
--The working model of this project can potentially be used as the ‘back-end’ to monitoring systems in places where a crowd of people tend to accumulate such as Workplaces, Avenues, Transport stations (eg. Railway station), Parks, etc. The real-time inputs can be fed in to the monitoring system through CCTV cameras installed in such locations and the outputs (people who are violating social distancing) can be viewed on the monitors. Continuous violation of the norm can warrant for immediate clearance & more stringent rules in that area.
+- The working model of this project can potentially be used as the ‘back-end’ to monitoring systems in places where a crowd of people tend to accumulate such as Workplaces, Avenues, Transport stations (eg. Railway station), Parks, etc. The real-time inputs can be fed in to the monitoring system through CCTV cameras installed in such locations and the outputs (people who are violating social distancing) can be viewed on the monitors. Continuous violation of the norm can warrant for immediate clearance & more stringent rules in that area.
+
 
 
 **Prerequisites:**
