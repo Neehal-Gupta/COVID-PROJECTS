@@ -1,5 +1,8 @@
 # COVID-PROJECTS
-[![Everything Is AWESOME](https://youtu.be/J5aBYEuBgII)
+![image alt text](https://example.com/link-to-image)
+
+
+[link text](https://youtu.be/J5aBYEuBgII)
 
 **"THE NEW NORMAL"**
 
