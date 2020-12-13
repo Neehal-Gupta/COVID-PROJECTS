@@ -1,8 +1,8 @@
 # COVID-PROJECTS
-![image alt text](https://example.com/link-to-image)
+![image alt text]()
 
 
-[link text](https://youtu.be/J5aBYEuBgII)
+[Video explaining the project](https://youtu.be/J5aBYEuBgII)
 
 **"THE NEW NORMAL"**
 
