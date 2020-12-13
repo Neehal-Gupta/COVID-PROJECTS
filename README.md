@@ -1,12 +1,8 @@
 # COVID-PROJECTS
-![image alt text]()
-
+**"THE NEW NORMAL"**
+![image alt text](https://blogsmedia.lse.ac.uk/blogs.dir/35/files/2020/05/social-distancing-5132570_1280.png)
 
 [Video explaining the project](https://youtu.be/J5aBYEuBgII)
-
-**"THE NEW NORMAL"**
-
-![alternate text](https://blogsmedia.lse.ac.uk/blogs.dir/35/files/2020/05/social-distancing-5132570_1280.png)
 
 
 **Main Functionalities**
