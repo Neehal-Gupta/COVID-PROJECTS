@@ -2,7 +2,7 @@
 **"THE NEW NORMAL"**
 ![image alt text](https://blogsmedia.lse.ac.uk/blogs.dir/35/files/2020/05/social-distancing-5132570_1280.png)
 
-[Video explaining the project](https://youtu.be/J5aBYEuBgII)
+[Video explaining the project](https://youtu.be/J5aBYEuBgII) -Please click on the link to see the video of working project with voiceover
 
 
 **Main Functionalities**
